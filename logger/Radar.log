@@ -1,0 +1,5 @@
+Sep 09, 2019 5:24:43 PM radar.Radar log
+WARNING: radar.Radar
+java.lang.NullPointerException
+	at radar.Radar.run(Radar.java:109)
+

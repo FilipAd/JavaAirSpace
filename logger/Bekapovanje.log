@@ -1,0 +1,41 @@
+Sep 11, 2019 9:44:35 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.IllegalArgumentException
+	at sun.nio.fs.WindowsFileSystem.getPathMatcher(WindowsFileSystem.java:288)
+	at zip_arhive.Pretrazivac.<init>(Pretrazivac.java:53)
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:46)
+
+Sep 11, 2019 9:49:10 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.IllegalArgumentException
+	at sun.nio.fs.WindowsFileSystem.getPathMatcher(WindowsFileSystem.java:288)
+	at zip_arhive.Pretrazivac.<init>(Pretrazivac.java:53)
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:48)
+
+Sep 11, 2019 9:49:10 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.NullPointerException
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:55)
+
+Sep 11, 2019 9:49:10 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.NullPointerException
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:55)
+
+Sep 12, 2019 12:02:12 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.IllegalArgumentException
+	at sun.nio.fs.WindowsFileSystem.getPathMatcher(WindowsFileSystem.java:288)
+	at zip_arhive.Pretrazivac.<init>(Pretrazivac.java:53)
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:48)
+
+Sep 12, 2019 12:02:12 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.NullPointerException
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:55)
+
+Sep 12, 2019 12:02:12 PM zip_arhive.Bekapovanje log
+WARNING: zip_arhive.Bekapovanje
+java.lang.NullPointerException
+	at zip_arhive.Bekapovanje.run(Bekapovanje.java:55)
+
